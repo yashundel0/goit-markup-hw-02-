@@ -1,1 +1,39 @@
-
+.portfolio {
+padding: 94px 0;
+text-align: center;
+}
+.portfolio h2 {
+font-size: 36px;
+margin-bottom: 50px;
+}
+.portfolio-list {
+display: flex;
+flex-wrap: wrap;
+gap: 30px;
+justify-content: center;
+list-style: none;
+padding: 0;
+margin: 0;
+}
+.portfolio-item {
+width: 360px;
+background: #fff;
+border: 1px solid #eeeeee;
+}
+.portfolio-item img {
+display: block;
+width: 100%;
+}
+.portfolio-title {
+font-size: 18px;
+margin: 20px 0 5px;
+padding: 0 15px;
+text-align: left;
+}
+.portfolio-text {
+color: #757575;
+font-size: 16px;
+margin-bottom: 20px;
+padding: 0 15px;
+text-align: left;
+}
