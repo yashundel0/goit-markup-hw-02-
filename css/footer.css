@@ -1,1 +1,22 @@
-
+.footer {
+background-color: #2f303a;
+padding: 60px 0;
+text-align: center;
+}
+.footer .logo {
+color: #ffffff;
+font-size: 18px;
+text-decoration: none;
+}
+.logo-accent {
+color: #4d5ae5;
+}
+.footer-text {
+margin-top: 20px;
+color: #ffffff;
+max-width: 300px;
+margin-left: auto;
+margin-right: auto;
+font-size: 14px;
+line-height: 1.6;
+}
